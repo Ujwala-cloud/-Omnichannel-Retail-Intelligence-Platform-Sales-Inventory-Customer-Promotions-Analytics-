@@ -16,7 +16,7 @@ Customer behavior and repeat purchase patterns
 
 Forecasting for demand planning
 
-🧩 Phase 1: BI Consultant (Jul 2022 – Dec 2023)
+🧩 Phase 1: 
 Focus: Reporting foundation + KPI standardization + dashboards
 Key Responsibilities
 
@@ -52,7 +52,7 @@ Stock on hand, sell-through, low stock alerts
 
 Return rate %, return reasons, return impact on net sales
 
-🧩 Phase 2: Senior BI Consultant (Jan 2024 – Mar 2025)
+🧩 Phase 2: 
 Focus: Performance optimization + advanced analytics + automation
 Key Responsibilities
 
